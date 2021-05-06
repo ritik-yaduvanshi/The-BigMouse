@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @CodexRitik
+- 💻 I'm Junior Java Developer
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Data Structures And Algorithms in Java
-- 💞️ I’m looking for help in Android App Development
+- 💞️ I’m looking for Full Stack Developer
 - 📫 How to reach me :ritik.yadav_cs19@gla.ac.in
 - ![gitImages](https://user-images.githubusercontent.com/67820202/112162579-3156bc80-8c12-11eb-97b6-2195cb0ca94d.jpg)
