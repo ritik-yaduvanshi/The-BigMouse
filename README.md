@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CodexRitik
-- 👀 I’m interested in Android App Development
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Data Structures And Algorithms in Java
 - 💞️ I’m looking for help in Android App Development
 - 📫 How to reach me :ritik.yadav_cs19@gla.ac.in
