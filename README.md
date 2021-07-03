@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning "Data Structure and Algorithms and Flutter"
 
-- 👀 I’m interested in "Flutter Development"
+- 👀 I’m interested in "App Development"
 
 - 🤝 I’m looking for help with **Flutter Developer**
 
