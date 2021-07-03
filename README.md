@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm CodexRitik</h1>
 - 💻 I'm Junior **Java Programmer**
 
-- 🌱 I’m currently learning **Data Structure and Algorithms**
+- 🌱 I’m currently learning "Data Structure and Algorithms and Flutter"
 
-- 👀 I’m interested in **Web Development**
+- 👀 I’m interested in "Flutter Development"
 
-- 🤝 I’m looking for help with **Full Stack Developer**
+- 🤝 I’m looking for help with **Flutter Developer**
 
 - 📝 I write some articles on [https://www.codexritik.site](https://www.codexritik.site)
 
