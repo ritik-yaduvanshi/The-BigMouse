@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Flutter Developer**
 
-- 📝 I write some articles on [https://www.codexritik.site](https://www.codexritik.site)
+- 📝 I write some articles on [https://www.codexritik.site](https://www.codexritik.blogspot.com)
 
 - 📫 How to reach me **ritik.yadav_cs19@gla.ac.in**
 
