@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm CodexRitik</h1>
-- 💻 I'm  **Software Develooper and Programmer**
+- 💻 I'm  **Software Developer and Programmer**
 
 - 🌱 I’m currently learning "Web Development"
 
