@@ -43,5 +43,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com/?user=thirsty-guy&theme=highcontrast)](https://git.io/streak-stats)
 
+![Dino](https://user-images.githubusercontent.com/67820202/212246106-98256af5-9390-403c-95a8-951f8610a01f.gif)
+
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)-->
 
